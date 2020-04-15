@@ -1,0 +1,869 @@
+requesting http://musicbrainz.org/ws/2/artist/?query=artist%3A&fmt=json
+{
+    "artists": [
+        {
+            "aliases": [
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "75 Spectacular Sound Effects (Vol. 1)",
+                    "primary": null,
+                    "sort-name": "75 Spectacular Sound Effects (Vol. 1)",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "no artist",
+                    "primary": null,
+                    "sort-name": "no artist",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Intercord",
+                    "primary": null,
+                    "sort-name": "Intercord",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Test Signal",
+                    "primary": null,
+                    "sort-name": "Test Signal",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "none given",
+                    "primary": null,
+                    "sort-name": "none given",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "\u82b8\u8853\u5bb6\u306f\u306a\u3044",
+                    "primary": null,
+                    "sort-name": "\u82b8\u8853\u5bb6\u306f\u306a\u3044",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "[audience]",
+                    "primary": null,
+                    "sort-name": "[audience]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "[none]",
+                    "primary": null,
+                    "sort-name": "[none]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Ideas The Dark Side of Sound",
+                    "primary": null,
+                    "sort-name": "Sound Ideas The Dark Side of Sound",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Effects",
+                    "primary": null,
+                    "sort-name": "Sound Effects",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "[silence]",
+                    "primary": null,
+                    "sort-name": "[silence]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "[noartist]",
+                    "primary": null,
+                    "sort-name": "[noartist]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "No Artist",
+                    "primary": null,
+                    "sort-name": "No Artist",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": "fi",
+                    "name": "[ei artistia]",
+                    "primary": null,
+                    "sort-name": "[ei artistia]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": "nl",
+                    "name": "[geen artiest]",
+                    "primary": true,
+                    "sort-name": "[geen artiest]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Check",
+                    "primary": null,
+                    "sort-name": "Sound Check",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "(none)",
+                    "primary": null,
+                    "sort-name": "(none)",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Bass Tones",
+                    "primary": null,
+                    "sort-name": "Bass Tones",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Soundcheck",
+                    "primary": null,
+                    "sort-name": "Soundcheck",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Ideas_Sound Effects Library",
+                    "primary": null,
+                    "sort-name": "Sound Ideas_Sound Effects Library",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "American Radio Relay League",
+                    "primary": null,
+                    "sort-name": "American Radio Relay League",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Klassiker",
+                    "primary": null,
+                    "sort-name": "Klassiker",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "H\u00e4uerglocke in Schneeberg-Neust\u00e4dtel",
+                    "primary": null,
+                    "sort-name": "H\u00e4uerglocke in Schneeberg-Neust\u00e4dtel",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "\u97f3\u97ff\u52b9\u679c",
+                    "primary": null,
+                    "sort-name": "\u97f3\u97ff\u52b9\u679c",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "n/a",
+                    "primary": null,
+                    "sort-name": "n/a",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "\u82b8\u8853\u5bb6\u306f\u3042\u308a\u307e\u305b\u3093",
+                    "primary": null,
+                    "sort-name": "\u82b8\u8853\u5bb6\u306f\u3042\u308a\u307e\u305b\u3093",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "INA",
+                    "primary": null,
+                    "sort-name": "INA",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Abenteuer & Wissen",
+                    "primary": null,
+                    "sort-name": "Abenteuer & Wissen",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Ideas Series 3000",
+                    "primary": null,
+                    "sort-name": "Sound",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Frequency",
+                    "primary": null,
+                    "sort-name": "Frequency",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Steve Wertheimer's 1951 Mercury Custom & Mike Young's 1960 Chevrolet 'Exotica' Impala",
+                    "primary": null,
+                    "sort-name": "Steve Wertheimer's 1951 Mercury Custom & Mike Young's 1960 Chevrolet 'Exotica' Impala",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Missouri Department of Conservation",
+                    "primary": null,
+                    "sort-name": "Missouri Department of Conservation",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "AVID Records-1997-Special FX",
+                    "primary": null,
+                    "sort-name": "AVID Records-1997-Special FX",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "None",
+                    "primary": null,
+                    "sort-name": "None",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "SE",
+                    "primary": null,
+                    "sort-name": "SE",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound-Check",
+                    "primary": null,
+                    "sort-name": "Sound-Check",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Virtual Audio Environments",
+                    "primary": null,
+                    "sort-name": "Virtual Audio Environments",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Caf\u00e9 Bendl Wien",
+                    "primary": null,
+                    "sort-name": "Caf\u00e9 Bendl Wien",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Ideas",
+                    "primary": null,
+                    "sort-name": "Sound Ideas",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "A State of Trance",
+                    "primary": null,
+                    "sort-name": "A State of Trance",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Sound Effect",
+                    "primary": null,
+                    "sort-name": "Sound Effect",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "3M Company",
+                    "primary": null,
+                    "sort-name": "3M Company",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "Gospelchor Breitner-Siedlung",
+                    "primary": null,
+                    "sort-name": "Gospelchor Breitner-Siedlung",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "[news report]",
+                    "primary": null,
+                    "sort-name": "[news report]",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "3M Scotch",
+                    "primary": null,
+                    "sort-name": "3M Scotch",
+                    "type": null
+                },
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "AVID Records",
+                    "primary": null,
+                    "sort-name": "AVID Records",
+                    "type": null
+                }
+            ],
+            "disambiguation": "Special Purpose Artist",
+            "gender": "not applicable",
+            "id": "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+            "life-span": {
+                "ended": null
+            },
+            "name": "[no artist]",
+            "score": 100,
+            "sort-name": "[no artist]",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "merge other \"no artist\" artists into here"
+                },
+                {
+                    "count": 1,
+                    "name": "meta artist"
+                },
+                {
+                    "count": 3,
+                    "name": "special purpose artist"
+                },
+                {
+                    "count": 1,
+                    "name": "spamess"
+                },
+                {
+                    "count": 0,
+                    "name": "cadbury sisters"
+                },
+                {
+                    "count": -1,
+                    "name": "sound ideas 6000 aviation 2"
+                }
+            ],
+            "type": "Other",
+            "type-id": "ac897045-5043-3294-969b-187360e45d86"
+        },
+        {
+            "aliases": [
+                {
+                    "begin-date": null,
+                    "end-date": null,
+                    "locale": null,
+                    "name": "VOIDBOY",
+                    "primary": null,
+                    "sort-name": "VOIDBOY",
+                    "type": "Search hint",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+                }
+            ],
+            "area": {
+                "id": "7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Tucson",
+                "sort-name": "Tucson",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "begin-area": {
+                "id": "7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Tucson",
+                "sort-name": "Tucson",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "disambiguation": "indie pop",
+            "gender": "male",
+            "id": "aec93644-ad57-4d2e-940a-f4403ffe5d9a",
+            "life-span": {
+                "begin": "1998-04-09",
+                "ended": null
+            },
+            "name": "Artist\u200d",
+            "score": 88,
+            "sort-name": "Artist\u200d",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "sillyname"
+                }
+            ],
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "United States",
+                "sort-name": "United States",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "country": "US",
+            "disambiguation": "80s rock band",
+            "id": "bdf9e707-7054-4873-b855-023a36a36263",
+            "life-span": {
+                "ended": true
+            },
+            "name": "Artist",
+            "score": 88,
+            "sort-name": "Artist",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Germany",
+                "sort-name": "Germany",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de"
+            },
+            "begin-area": {
+                "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Berlin",
+                "sort-name": "Berlin",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "country": "DE",
+            "disambiguation": "This is a real artist, for unknown artists use [unknown]",
+            "id": "eb9d8589-6659-4ccc-ae9c-36cd6f95d8a8",
+            "life-span": {
+                "begin": "1999",
+                "ended": null
+            },
+            "name": "Artist Unknown",
+            "score": 78,
+            "sort-name": "Artist Unknown",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "1824fab3-f998-4767-be24-e18d0cf8606c",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Madacy Artist",
+            "score": 77,
+            "sort-name": "Madacy Artist"
+        },
+        {
+            "area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "London",
+                "sort-name": "London",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "disambiguation": "Hip-hop artist",
+            "gender": "male",
+            "id": "c3765eb4-2510-4e6e-ba7e-31d7c35096b7",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Barney Artist",
+            "score": 76,
+            "sort-name": "Barney Artist",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "disambiguation": "the ghetto angel",
+            "gender": "male",
+            "id": "5c9061e9-41f0-44eb-a4ca-6d8e0568ba02",
+            "life-span": {
+                "begin": "2005-01-01",
+                "ended": null
+            },
+            "name": "Khaos One",
+            "score": 76,
+            "sort-name": "Artist",
+            "type": "Character",
+            "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f"
+        },
+        {
+            "id": "36dd0774-65f8-42b9-ab7e-2d4ed6caface",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Marshall Artist",
+            "score": 76,
+            "sort-name": "Marshall Artist"
+        },
+        {
+            "id": "5c9445bb-edd2-4acf-98b3-ce3f9e486925",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Mystery Artist",
+            "score": 75,
+            "sort-name": "Mystery Artist",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "fixme"
+                }
+            ],
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "disambiguation": "field recordings",
+            "id": "4e1faee9-8a6d-4693-b2b4-05ec5e22ebc9",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Default Artist",
+            "score": 75,
+            "sort-name": "Default Artist",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "field recordings"
+                }
+            ]
+        },
+        {
+            "id": "aa96cc26-727a-426a-8b8a-4a837df5ff35",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Life Artist",
+            "score": 75,
+            "sort-name": "Life Artist",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "85255284-6eea-469c-a14d-2c571ab697da",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Wandering Artist",
+            "score": 75,
+            "sort-name": "Wandering Artist"
+        },
+        {
+            "area": {
+                "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Vancouver",
+                "sort-name": "Vancouver",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "disambiguation": "alias of Mood Hut cofounder Ian Wyatt",
+            "gender": "male",
+            "id": "0dd58083-ecd5-4b04-bb61-6a61484899e3",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Local Artist",
+            "score": 75,
+            "sort-name": "Local Artist",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "area": {
+                "id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Glasgow",
+                "sort-name": "Glasgow",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "gender": "male",
+            "id": "75d3ec7f-c701-4ef8-8609-1cd6e302a85d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Adot Artist",
+            "score": 75,
+            "sort-name": "Artist, Adot",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "area": {
+                "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+                "life-span": {
+                    "ended": null
+                },
+                "name": "Atlanta",
+                "sort-name": "Atlanta",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78"
+            },
+            "id": "d8fc63a6-8196-4b40-83f3-4cb29f88b8d6",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Burning Artist",
+            "score": 75,
+            "sort-name": "Burning Artist",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "id": "93690947-ceb7-48da-b406-cc718dcb8a13",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Backside Artist",
+            "score": 75,
+            "sort-name": "Backside Artist"
+        },
+        {
+            "id": "0540101d-3637-4254-bb6b-da3a86efdb9d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Artist 00",
+            "score": 75,
+            "sort-name": "Artist 00"
+        },
+        {
+            "disambiguation": "60th R&B vocal group",
+            "id": "f24a824b-470b-4197-bed9-8b9d6fd16729",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Mystery Artist",
+            "score": 75,
+            "sort-name": "Artist, Mystery",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        {
+            "id": "b37ab2dd-3862-4d4b-a04b-3e386326ae6d",
+            "life-span": {
+                "ended": null
+            },
+            "name": "VB Artist",
+            "score": 75,
+            "sort-name": "VB Artist",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "id": "73414dcb-0ac9-41c9-bbec-53e702564569",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Artist Exe",
+            "score": 75,
+            "sort-name": "Artist Exe"
+        },
+        {
+            "id": "ce1c7942-c141-49c2-be4f-151636e7f37a",
+            "life-span": {
+                "ended": null
+            },
+            "name": "UNK ARTIST",
+            "score": 75,
+            "sort-name": "UNK ARTIST"
+        },
+        {
+            "id": "036a7e46-0279-49b7-98d7-529f564ff324",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Hunger Artist",
+            "score": 75,
+            "sort-name": "Hunger Artist"
+        },
+        {
+            "id": "fc16f7c0-acb3-4d25-acb8-a6598ef42b95",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Rhyme Artist",
+            "score": 75,
+            "sort-name": "Rhyme Artist"
+        },
+        {
+            "gender": "male",
+            "id": "01c66714-bc95-4048-a569-ea9c9cc8f6b5",
+            "life-span": {
+                "ended": null
+            },
+            "name": "Con Artist",
+            "score": 75,
+            "sort-name": "Con Artist",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        {
+            "id": "deef8833-883a-4a89-b282-fada79d8b170",
+            "life-span": {
+                "ended": null
+            },
+            "name": "J.D. Artist",
+            "score": 75,
+            "sort-name": "J.D. Artist"
+        }
+    ],
+    "count": 23420,
+    "created": "2020-04-14T08:24:30.471Z",
+    "offset": 0
+}
+{'id': 'eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61', 'type': 'Other', 'type-id': 'ac897045-5043-3294-969b-187360e45d86', 'score': 100, 'name': '[no artist]', 'sort-name': '[no artist]', 'gender': 'not applicable', 'disambiguation': 'Special Purpose Artist', 'life-span': {'ended': None}, 'aliases': [{'sort-name': '75 Spectacular Sound Effects (Vol. 1)', 'name': '75 Spectacular Sound Effects (Vol. 1)', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'no artist', 'name': 'no artist', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Intercord', 'name': 'Intercord', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Test Signal', 'name': 'Test Signal', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'none given', 'name': 'none given', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '芸術家はない', 'name': '芸術家はない', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[audience]', 'name': '[audience]', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[none]', 'name': '[none]', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Ideas The Dark Side of Sound', 'name': 'Sound Ideas The Dark Side of Sound', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Effects', 'name': 'Sound Effects', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[silence]', 'name': '[silence]', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[noartist]', 'name': '[noartist]', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'No Artist', 'name': 'No Artist', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[ei artistia]', 'name': '[ei artistia]', 'locale': 'fi', 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[geen artiest]', 'name': '[geen artiest]', 'locale': 'nl', 'type': None, 'primary': True, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Check', 'name': 'Sound Check', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '(none)', 'name': '(none)', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Bass Tones', 'name': 'Bass Tones', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Soundcheck', 'name': 'Soundcheck', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Ideas_Sound Effects Library', 'name': 'Sound Ideas_Sound Effects Library', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'American Radio Relay League', 'name': 'American Radio Relay League', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Klassiker', 'name': 'Klassiker', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Häuerglocke in Schneeberg-Neustädtel', 'name': 'Häuerglocke in Schneeberg-Neustädtel', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '音響効果', 'name': '音響効果', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'n/a', 'name': 'n/a', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '芸術家はありません', 'name': '芸術家はありません', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'INA', 'name': 'INA', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Abenteuer & Wissen', 'name': 'Abenteuer & Wissen', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound', 'name': 'Sound Ideas Series 3000', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Frequency', 'name': 'Frequency', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': "Steve Wertheimer's 1951 Mercury Custom & Mike Young's 1960 Chevrolet 'Exotica' Impala", 'name': "Steve Wertheimer's 1951 Mercury Custom & Mike Young's 1960 Chevrolet 'Exotica' Impala", 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Missouri Department of Conservation', 'name': 'Missouri Department of Conservation', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'AVID Records-1997-Special FX', 'name': 'AVID Records-1997-Special FX', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'None', 'name': 'None', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'SE', 'name': 'SE', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound-Check', 'name': 'Sound-Check', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Virtual Audio Environments', 'name': 'Virtual Audio Environments', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Café Bendl Wien', 'name': 'Café Bendl Wien', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Ideas', 'name': 'Sound Ideas', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'A State of Trance', 'name': 'A State of Trance', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Sound Effect', 'name': 'Sound Effect', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '3M Company', 'name': '3M Company', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'Gospelchor Breitner-Siedlung', 'name': 'Gospelchor Breitner-Siedlung', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '[news report]', 'name': '[news report]', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': '3M Scotch', 'name': '3M Scotch', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}, {'sort-name': 'AVID Records', 'name': 'AVID Records', 'locale': None, 'type': None, 'primary': None, 'begin-date': None, 'end-date': None}], 'tags': [{'count': 1, 'name': 'merge other "no artist" artists into here'}, {'count': 1, 'name': 'meta artist'}, {'count': 3, 'name': 'special purpose artist'}, {'count': 1, 'name': 'spamess'}, {'count': 0, 'name': 'cadbury sisters'}, {'count': -1, 'name': 'sound ideas 6000 aviation 2'}]}
+{'id': 'aec93644-ad57-4d2e-940a-f4403ffe5d9a', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 88, 'name': 'Artist\u200d', 'sort-name': 'Artist\u200d', 'gender': 'male', 'area': {'id': '7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Tucson', 'sort-name': 'Tucson', 'life-span': {'ended': None}}, 'begin-area': {'id': '7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Tucson', 'sort-name': 'Tucson', 'life-span': {'ended': None}}, 'disambiguation': 'indie pop', 'life-span': {'begin': '1998-04-09', 'ended': None}, 'aliases': [{'sort-name': 'VOIDBOY', 'type-id': '1937e404-b981-3cb7-8151-4c86ebfc8d8e', 'name': 'VOIDBOY', 'locale': None, 'type': 'Search hint', 'primary': None, 'begin-date': None, 'end-date': None}], 'tags': [{'count': 1, 'name': 'sillyname'}]}
+{'id': 'bdf9e707-7054-4873-b855-023a36a36263', 'type': 'Group', 'type-id': 'e431f5f6-b5d2-343d-8b36-72607fffb74b', 'score': 88, 'name': 'Artist', 'sort-name': 'Artist', 'country': 'US', 'area': {'id': '489ce91b-6658-3307-9877-795b68554c98', 'type': 'Country', 'type-id': '06dd0ae4-8c74-30bb-b43d-95dcedf961de', 'name': 'United States', 'sort-name': 'United States', 'life-span': {'ended': None}}, 'disambiguation': '80s rock band', 'life-span': {'ended': True}}
+{'id': 'eb9d8589-6659-4ccc-ae9c-36cd6f95d8a8', 'type': 'Group', 'type-id': 'e431f5f6-b5d2-343d-8b36-72607fffb74b', 'score': 78, 'name': 'Artist Unknown', 'sort-name': 'Artist Unknown', 'country': 'DE', 'area': {'id': '85752fda-13c4-31a3-bee5-0e5cb1f51dad', 'type': 'Country', 'type-id': '06dd0ae4-8c74-30bb-b43d-95dcedf961de', 'name': 'Germany', 'sort-name': 'Germany', 'life-span': {'ended': None}}, 'begin-area': {'id': 'c9ac1239-e832-41bc-9930-e252a1fd1105', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Berlin', 'sort-name': 'Berlin', 'life-span': {'ended': None}}, 'disambiguation': 'This is a real artist, for unknown artists use [unknown]', 'life-span': {'begin': '1999', 'ended': None}}
+{'id': '1824fab3-f998-4767-be24-e18d0cf8606c', 'score': 77, 'name': 'Madacy Artist', 'sort-name': 'Madacy Artist', 'life-span': {'ended': None}}
+{'id': 'c3765eb4-2510-4e6e-ba7e-31d7c35096b7', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 76, 'name': 'Barney Artist', 'sort-name': 'Barney Artist', 'gender': 'male', 'area': {'id': 'f03d09b3-39dc-4083-afd6-159e3f0d462f', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'London', 'sort-name': 'London', 'life-span': {'ended': None}}, 'disambiguation': 'Hip-hop artist', 'life-span': {'ended': None}}
+{'id': '5c9061e9-41f0-44eb-a4ca-6d8e0568ba02', 'type': 'Character', 'type-id': '5c1375b0-f18d-3db7-a164-a49d7a63773f', 'score': 76, 'name': 'Khaos One', 'sort-name': 'Artist', 'gender': 'male', 'disambiguation': 'the ghetto angel', 'life-span': {'begin': '2005-01-01', 'ended': None}}
+{'id': '36dd0774-65f8-42b9-ab7e-2d4ed6caface', 'score': 76, 'name': 'Marshall Artist', 'sort-name': 'Marshall Artist', 'life-span': {'ended': None}}
+{'id': '5c9445bb-edd2-4acf-98b3-ce3f9e486925', 'type': 'Group', 'type-id': 'e431f5f6-b5d2-343d-8b36-72607fffb74b', 'score': 75, 'name': 'Mystery Artist', 'sort-name': 'Mystery Artist', 'life-span': {'ended': None}, 'tags': [{'count': 1, 'name': 'fixme'}]}
+{'id': '4e1faee9-8a6d-4693-b2b4-05ec5e22ebc9', 'score': 75, 'name': 'Default Artist', 'sort-name': 'Default Artist', 'disambiguation': 'field recordings', 'life-span': {'ended': None}, 'tags': [{'count': 1, 'name': 'field recordings'}]}
+{'id': 'aa96cc26-727a-426a-8b8a-4a837df5ff35', 'type': 'Group', 'type-id': 'e431f5f6-b5d2-343d-8b36-72607fffb74b', 'score': 75, 'name': 'Life Artist', 'sort-name': 'Life Artist', 'life-span': {'ended': None}}
+{'id': '85255284-6eea-469c-a14d-2c571ab697da', 'score': 75, 'name': 'Wandering Artist', 'sort-name': 'Wandering Artist', 'life-span': {'ended': None}}
+{'id': '0dd58083-ecd5-4b04-bb61-6a61484899e3', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 75, 'name': 'Local Artist', 'sort-name': 'Local Artist', 'gender': 'male', 'area': {'id': '6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Vancouver', 'sort-name': 'Vancouver', 'life-span': {'ended': None}}, 'disambiguation': 'alias of Mood Hut cofounder Ian Wyatt', 'life-span': {'ended': None}}
+{'id': '75d3ec7f-c701-4ef8-8609-1cd6e302a85d', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 75, 'name': 'Adot Artist', 'sort-name': 'Artist, Adot', 'gender': 'male', 'area': {'id': 'c279f805-01f8-46f5-99cf-51f165a1adad', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Glasgow', 'sort-name': 'Glasgow', 'life-span': {'ended': None}}, 'life-span': {'ended': None}}
+{'id': 'd8fc63a6-8196-4b40-83f3-4cb29f88b8d6', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 75, 'name': 'Burning Artist', 'sort-name': 'Burning Artist', 'area': {'id': '26e0e534-19ea-4645-bfb3-1aa4e83a4046', 'type': 'City', 'type-id': '6fd8f29a-3d0a-32fc-980d-ea697b69da78', 'name': 'Atlanta', 'sort-name': 'Atlanta', 'life-span': {'ended': None}}, 'life-span': {'ended': None}}
+{'id': '93690947-ceb7-48da-b406-cc718dcb8a13', 'score': 75, 'name': 'Backside Artist', 'sort-name': 'Backside Artist', 'life-span': {'ended': None}}
+{'id': '0540101d-3637-4254-bb6b-da3a86efdb9d', 'score': 75, 'name': 'Artist 00', 'sort-name': 'Artist 00', 'life-span': {'ended': None}}
+{'id': 'f24a824b-470b-4197-bed9-8b9d6fd16729', 'type': 'Group', 'type-id': 'e431f5f6-b5d2-343d-8b36-72607fffb74b', 'score': 75, 'name': 'Mystery Artist', 'sort-name': 'Artist, Mystery', 'disambiguation': '60th R&B vocal group', 'life-span': {'ended': None}}
+{'id': 'b37ab2dd-3862-4d4b-a04b-3e386326ae6d', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 75, 'name': 'VB Artist', 'sort-name': 'VB Artist', 'life-span': {'ended': None}}
+{'id': '73414dcb-0ac9-41c9-bbec-53e702564569', 'score': 75, 'name': 'Artist Exe', 'sort-name': 'Artist Exe', 'life-span': {'ended': None}}
+{'id': 'ce1c7942-c141-49c2-be4f-151636e7f37a', 'score': 75, 'name': 'UNK ARTIST', 'sort-name': 'UNK ARTIST', 'life-span': {'ended': None}}
+{'id': '036a7e46-0279-49b7-98d7-529f564ff324', 'score': 75, 'name': 'Hunger Artist', 'sort-name': 'Hunger Artist', 'life-span': {'ended': None}}
+{'id': 'fc16f7c0-acb3-4d25-acb8-a6598ef42b95', 'score': 75, 'name': 'Rhyme Artist', 'sort-name': 'Rhyme Artist', 'life-span': {'ended': None}}
+{'id': '01c66714-bc95-4048-a569-ea9c9cc8f6b5', 'type': 'Person', 'type-id': 'b6e035f4-3ce9-331c-97df-83397230b0df', 'score': 75, 'name': 'Con Artist', 'sort-name': 'Con Artist', 'gender': 'male', 'life-span': {'ended': None}}
+{'id': 'deef8833-883a-4a89-b282-fada79d8b170', 'score': 75, 'name': 'J.D. Artist', 'sort-name': 'J.D. Artist', 'life-span': {'ended': None}}

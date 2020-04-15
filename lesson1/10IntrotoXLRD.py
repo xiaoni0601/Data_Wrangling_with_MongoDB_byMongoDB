@@ -1,14 +1,17 @@
+# Read .xls(.xlsx) file into python list and process
+
 import xlrd
 
 datafile = "/Users/xiaonili/lesson1/2013_ERCOT_Hourly_Load_Data.xls"
 
 def parse_file(datafile):
+    # open_workbook
     workbook = xlrd.open_workbook(datafile)
+    #select sheet
     sheet = workbook.sheet_by_index(0)
 
-    data = [ [sheet.cell_value(r, col) 
-    for col in range(sheet.ncols)] 
-    for r in range(sheet.nrows) ]
+    # looping over all the columns and the rows in the sheet
+    data = [[sheet.cell_value(r, col) for col in range(sheet.ncols)] for r in range(sheet.nrows)]
     
     print("\nList Comprehension")
     print("data[3][2]:",)
@@ -19,6 +22,7 @@ def parse_file(datafile):
         for col in range(sheet.ncols):
             if row == 50:
                 print(sheet.cell_value(row, col),)
+            
     ### other useful methods:
     print("\nROWS, COLUMNS, and CELLS:")
     print("Number of rows in the sheet:",) 
@@ -38,6 +42,14 @@ def parse_file(datafile):
     print(exceltime)
     print("Convert time to a Python datetime tuple, from the Excel float:",)
     print(xlrd.xldate_as_tuple(exceltime, 0))
+
+    data = {
+        'maxtime': (0, 0, 0, 0, 0, 0),
+        'maxvalue': 0, 
+        'mintime': (0, 0, 0, 0, 0, 0),
+        'minvalue': 0,
+        'avecoast': 0
+    }
 
 
     return data
