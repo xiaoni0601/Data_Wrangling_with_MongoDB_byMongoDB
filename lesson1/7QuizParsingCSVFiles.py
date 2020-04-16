@@ -10,8 +10,8 @@
 # so the returned list should have 10 entries!
 import os
 
-DATADIR = ""
-DATAFILE = "/Users/xiaonili/lesson1/beatles-discography.csv"
+DATADIR = "/Users/xiaonili/lesson1/"
+DATAFILE = "beatles-discography.csv"
 
 
 def parse_file(datafile):

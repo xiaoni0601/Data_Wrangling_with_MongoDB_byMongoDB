@@ -67,25 +67,21 @@ def main():
     """
 
     # Query for information in the database about bands named Nirvana
-    results = query_by_name(ARTIST_URL, query_type["simple"], "*")
-    pretty_print(results)
+    results = query_by_name(ARTIST_URL, query_type["simple"], "begin-area")
+    pretty_print(results["Queen"])
+    print(len(results))
 
-    res_1=[]
-    print('-'*100)
-    for r in results['artists']:
-        if "begin-area" in r:
-            if r['begin-area']['name']=='London':
-                res_1.append(r)
-                pretty_print(r['begin-area']['name'])
-                print('+'*100)
-    print(res_1)
     # # Isolate information from the 4th band returned (index 3)
+    # results = query_by_name(ARTIST_URL, query_type["simple"], "Nirvana")
     # print("\nARTIST:")
     # pretty_print(results["artists"][3])
 
     # # Query for releases from that band using the artist_id
+    
     # artist_id = results["artists"][3]["id"]
+
     # artist_data = query_site(ARTIST_URL, query_type["releases"], artist_id)
+
     # releases = artist_data["releases"]
 
     # # Print information about releases from the selected band

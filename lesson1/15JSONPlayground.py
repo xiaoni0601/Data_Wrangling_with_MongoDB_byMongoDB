@@ -67,17 +67,21 @@ def main():
     """
 
     # Query for information in the database about bands named Nirvana
-    results = query_by_name(ARTIST_URL, query_type["simple"], "FIRST AID KIT")
+    results = query_by_name(ARTIST_URL, query_type["simple"], "Nirvana")
     pretty_print(results)
     print(len(results))
 
     # Isolate information from the 4th band returned (index 3)
+    results = query_by_name(ARTIST_URL, query_type["simple"], "Nirvana")
     print("\nARTIST:")
     pretty_print(results["artists"][3])
 
     # Query for releases from that band using the artist_id
+    
     artist_id = results["artists"][3]["id"]
+
     artist_data = query_site(ARTIST_URL, query_type["releases"], artist_id)
+
     releases = artist_data["releases"]
 
     # Print information about releases from the selected band
