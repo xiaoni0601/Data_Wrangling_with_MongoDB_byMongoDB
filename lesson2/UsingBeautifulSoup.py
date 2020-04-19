@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-html_page = "/Users/xiaonili/lesson2/United_and_logan_airport.html"
+html_page = "/Users/xiaonili/United_and_logan_airport.html"
 
 
 def extract_data(page):
