@@ -1,0 +1,1163 @@
+[
+  {
+    "uri": "nyt://article/012115a2-1b71-52e4-917a-f77e68a09769",
+    "url": "https://www.nytimes.com/2020/04/17/us/coronavirus-cases-news-update.html",
+    "id": 100000007092645,
+    "asset_id": 100000007092645,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-18 00:26:50",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "Trump Foments Protests Against Governors; Experts Warn of Testing Shortages",
+    "abstract": "The president issued calls to \u2018LIBERATE\u2019 states, and several announced plans to ease restrictions. At least 7,000 of the virus deaths in the U.S. are connected to nursing homes.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/45a5a8f1-4383-5d5f-8c96-ef6ef2fcb3d8",
+    "url": "https://www.nytimes.com/2020/04/16/style/coronavirus-public-shaming.html",
+    "id": 100000007087575,
+    "asset_id": 100000007087575,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 21:43:13",
+    "section": "Style",
+    "subsection": "",
+    "nytdsection": "style",
+    "adx_keywords": "Coronavirus (2019-nCoV);Celebrities;News and News Media;Social Media;Quarantines;Protective Clothing and Gear;Masks;your-feed-selfcare;Stephanopoulos, George;ABC Inc",
+    "column": null,
+    "byline": "By Katherine Rosman",
+    "type": "Article",
+    "title": "\u2018Corona-Shamed\u2019: George Stephanopoulos, J. Lo \u2014 Maybe You?",
+    "abstract": "Ivanka Trump, Chris Cuomo and all kinds of private citizens are getting roasted on social media for perceived failures of public hygiene.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Celebrities",
+      "News and News Media",
+      "Social Media",
+      "Quarantines",
+      "Protective Clothing and Gear",
+      "Masks",
+      "your-feed-selfcare"
+    ],
+    "org_facet": [
+      "ABC Inc"
+    ],
+    "per_facet": [
+      "Stephanopoulos, George"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "George Stephanopoulos with his wife, Ali Wentworth, at a movie screening in the summer of 2019.",
+        "copyright": "Evan Agostini/Invision, via Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/19/fashion/15VIRUS-STEPHANOPOULOS1/15VIRUS-STEPHANOPOULOS1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/19/fashion/15VIRUS-STEPHANOPOULOS1/15VIRUS-STEPHANOPOULOS1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/19/fashion/15VIRUS-STEPHANOPOULOS1/15VIRUS-STEPHANOPOULOS1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/d5f0b32a-ab4c-5d5b-aead-8ff6fa2a64ec",
+    "url": "https://www.nytimes.com/2020/04/17/technology/bill-gates-virus-conspiracy-theories.html",
+    "id": 100000007091623,
+    "asset_id": 100000007091623,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-18 00:37:40",
+    "section": "Technology",
+    "subsection": "",
+    "nytdsection": "technology",
+    "adx_keywords": "Coronavirus (2019-nCoV);Philanthropy;Computers and the Internet;Social Media;Vaccination and Immunization;United States Politics and Government;Fringe Groups and Movements;Rumors and Misinformation;News and News Media;Gates, Bill;Gates, Bill and Melinda, Foundation",
+    "column": null,
+    "byline": "By Daisuke Wakabayashi, Davey Alba and Marc Tracy",
+    "type": "Article",
+    "title": "Bill Gates, at Odds With Trump on Virus, Becomes a Right-Wing Target",
+    "abstract": "The Microsoft co-founder turned philanthropist has been attacked with falsehoods that he created the coronavirus and wants to profit from it.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Philanthropy",
+      "Computers and the Internet",
+      "Social Media",
+      "Vaccination and Immunization",
+      "United States Politics and Government",
+      "Fringe Groups and Movements",
+      "Rumors and Misinformation",
+      "News and News Media"
+    ],
+    "org_facet": [
+      "Gates, Bill and Melinda, Foundation"
+    ],
+    "per_facet": [
+      "Gates, Bill"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Connor Willumsen",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/business/17virus-gates/17virus-gates-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/business/17virus-gates/17virus-gates-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/business/17virus-gates/17virus-gates-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/3963ca82-f35b-538b-a6c9-bcb603abc249",
+    "url": "https://www.nytimes.com/2020/04/17/world/coronavirus-news-updates.html",
+    "id": 100000007092738,
+    "asset_id": 100000007092738,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-18 00:19:42",
+    "section": "World",
+    "subsection": "",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV);Economic Conditions and Trends;Palestinians;Quarantines;Bolsonaro, Jair (1955- );Trump, Donald J;United Nations;Brazil;China;Europe;Gaza Strip;Great Britain;United States",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "W.H.O. Failed to Tell Syrian Kurds of Their First Coronavirus Death: Live Coverage",
+    "abstract": "Nearly 150,000 people with the virus have died. A dispute over coronavirus measures in Sudan\u2019s capital has prompted fears that the military would use a lockdown to seize power.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Economic Conditions and Trends",
+      "Palestinians",
+      "Quarantines"
+    ],
+    "org_facet": [
+      "United Nations"
+    ],
+    "per_facet": [
+      "Bolsonaro, Jair (1955- )",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [
+      "Brazil",
+      "China",
+      "Europe",
+      "Gaza Strip",
+      "Great Britain",
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Workers disinfecting streets in Qamishli, Syria, in late March.",
+        "copyright": "Baderkhan Ahmad/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-int-briefing-syria2/merlin_171133779_b30c365c-49f7-42a1-98a3-91bd575dc475-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-int-briefing-syria2/merlin_171133779_b30c365c-49f7-42a1-98a3-91bd575dc475-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-int-briefing-syria2/merlin_171133779_b30c365c-49f7-42a1-98a3-91bd575dc475-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/ea4cd39e-5df8-5d6a-ad76-5353f228c1c4",
+    "url": "https://www.nytimes.com/2020/04/16/world/europe/coronavirus-antibody-test-uk.html",
+    "id": 100000007091086,
+    "asset_id": 100000007091086,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 15:24:15",
+    "section": "World",
+    "subsection": "Europe",
+    "nytdsection": "world",
+    "adx_keywords": "Tests (Medical);Coronavirus (2019-nCoV);Laboratories and Scientific Equipment;Politics and Government;Defective Products;Product Tests;Johnson, Boris;AstraZeneca PLC;GlaxoSmithKline PLC;National Health Service;Hangzhou Alltest Biotech Co Ltd;Guangzhou Wondfo Biotech Co Ltd;Great Britain;China",
+    "column": null,
+    "byline": "By David D. Kirkpatrick and Jane Bradley",
+    "type": "Article",
+    "title": "U.K. Paid $20 Million for New Coronavirus Tests. They Didn\u2019t Work.",
+    "abstract": "Facing a global scramble for materials, British officials bought millions of unproven kits from China in a gamble that became an embarrassment.",
+    "des_facet": [
+      "Tests (Medical)",
+      "Coronavirus (2019-nCoV)",
+      "Laboratories and Scientific Equipment",
+      "Politics and Government",
+      "Defective Products",
+      "Product Tests"
+    ],
+    "org_facet": [
+      "AstraZeneca PLC",
+      "GlaxoSmithKline PLC",
+      "National Health Service",
+      "Hangzhou Alltest Biotech Co Ltd",
+      "Guangzhou Wondfo Biotech Co Ltd"
+    ],
+    "per_facet": [
+      "Johnson, Boris"
+    ],
+    "geo_facet": [
+      "Great Britain",
+      "China"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Parliament in London. Britain is aiming to conduct 100,000 coronavirus tests a day by May, but as of this week was still doing less than 20,000 a day.",
+        "copyright": "Andrew Testa for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/world/16virustestinguk1/merlin_171379200_bd8b447f-b6bf-4e27-abdf-26ec2e80a4fe-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/world/16virustestinguk1/merlin_171379200_bd8b447f-b6bf-4e27-abdf-26ec2e80a4fe-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/world/16virustestinguk1/merlin_171379200_bd8b447f-b6bf-4e27-abdf-26ec2e80a4fe-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/700ab427-1a4c-5352-9467-8cabee6ed537",
+    "url": "https://www.nytimes.com/2020/04/15/nyregion/coronavirus-nj-andover-nursing-home-deaths.html",
+    "id": 100000007089386,
+    "asset_id": 100000007089386,
+    "source": "New York Times",
+    "published_date": "2020-04-15",
+    "updated": "2020-04-17 18:19:49",
+    "section": "New York",
+    "subsection": "",
+    "nytdsection": "new york",
+    "adx_keywords": "Coronavirus (2019-nCoV);Elderly;Shortages;Nursing Homes",
+    "column": null,
+    "byline": "By Tracey Tully",
+    "type": "Article",
+    "title": "After Anonymous Tip, 17 Bodies Found at Nursing Home Hit by Virus",
+    "abstract": "There have been 68 recent deaths of residents and nurses from the facility in a small New Jersey town.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Elderly",
+      "Shortages",
+      "Nursing Homes"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Andover Subacute and Rehabilitation Center in Andover, N.J., where 17 bodies were found in a small morgue.",
+        "copyright": "Gregg Vigliotti for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/nyregion/15njvirus-nursinghomeNEWtop1/15njvirus-nursinghomeNEWtop1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/nyregion/15njvirus-nursinghomeNEWtop1/15njvirus-nursinghomeNEWtop1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/nyregion/15njvirus-nursinghomeNEWtop1/15njvirus-nursinghomeNEWtop1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/15b10f0f-24c4-5d89-9dd8-53af8ca53752",
+    "url": "https://www.nytimes.com/2020/04/16/us/coronavirus-cases-live-updates.html",
+    "id": 100000007090796,
+    "asset_id": 100000007090796,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 05:40:46",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);Tests (Medical);Trump, Donald J;Centers for Disease Control and Prevention",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "White House Offers Reopening Guidelines as U.S. Deaths Surge",
+    "abstract": "President Trump says he will defer to governors about lifting restrictions. At least 30,000 patients have died, and 22 million Americans have filed for unemployment in four weeks.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Tests (Medical)"
+    ],
+    "org_facet": [
+      "Centers for Disease Control and Prevention"
+    ],
+    "per_facet": [
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/991c6e22-2d2c-5493-bba1-32d9c478d055",
+    "url": "https://www.nytimes.com/2020/04/17/world/asia/china-wuhan-coronavirus-death-toll.html",
+    "id": 100000007093313,
+    "asset_id": 100000007093313,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-17 13:52:09",
+    "section": "World",
+    "subsection": "Asia Pacific",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV);Epidemics;Propaganda;Statistics;China",
+    "column": null,
+    "byline": "By Amy Qin",
+    "type": "Article",
+    "title": "China Raises Coronavirus Death Toll by 50% in Wuhan",
+    "abstract": "Officials facing skepticism about their credibility also bumped up their tally of infections in the city where the pandemic emerged.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Epidemics",
+      "Propaganda",
+      "Statistics"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "China"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A memorial this month for victims of the coronavirus in Wuhan, China. Officials have been faulted as having at first mismanaged and concealed the breadth of the epidemic.",
+        "copyright": "Roman Pilipey/EPA, via Shutterstock",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-china-deaths3-copy/17virus-china-deaths3-copy-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-china-deaths3-copy/17virus-china-deaths3-copy-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/world/17virus-china-deaths3-copy/17virus-china-deaths3-copy-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/1ebbaa13-b8f3-52a0-948e-bc45374cddbf",
+    "url": "https://www.nytimes.com/2020/04/17/well/live/coronavirus-contagion-spead-clothes-shoes-hair-newspaper-packages-mail-infectious.html",
+    "id": 100000007086302,
+    "asset_id": 100000007086302,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-17 18:18:20",
+    "section": "Well",
+    "subsection": "Live",
+    "nytdsection": "well",
+    "adx_keywords": "Coronavirus (2019-nCoV);Hygiene and Cleanliness;Quarantines;Supermarkets and Grocery Stores;Shoes and Boots;Fashion and Apparel;Newspapers;Hair",
+    "column": null,
+    "byline": "By Tara Parker-Pope",
+    "type": "Article",
+    "title": "Is the Virus on My Clothes? My Shoes? My Hair? My Newspaper?",
+    "abstract": "We asked the experts to answer questions about all the places coronavirus lurks (or doesn\u2019t). You\u2019ll feel better after reading this.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Hygiene and Cleanliness",
+      "Quarantines",
+      "Supermarkets and Grocery Stores",
+      "Shoes and Boots",
+      "Fashion and Apparel",
+      "Newspapers",
+      "Hair"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "iStock",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/well/well-shoes/well-shoes-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/well/well-shoes/well-shoes-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/well/well-shoes/well-shoes-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/a5078eb7-6949-51d5-8c1f-2a34cfbd61d2",
+    "url": "https://www.nytimes.com/2020/04/17/business/media/dr-oz-apology-coronavirus.html",
+    "id": 100000007093459,
+    "asset_id": 100000007093459,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-17 18:59:42",
+    "section": "Business",
+    "subsection": "Media",
+    "nytdsection": "business",
+    "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Quarantines;Hannity, Sean;Oz, Mehmet C;Trump, Donald J;BMJ (Journal);Fox Broadcasting Co",
+    "column": null,
+    "byline": "By Maria Cramer",
+    "type": "Article",
+    "title": "Dr. Oz Faces Backlash After Saying Schools Could Reopen",
+    "abstract": "Dr. Mehmet Oz, a heart surgeon and television personality, said he \u201cmisspoke\u201d on Fox News when he said that reopening schools \u201cmight be a trade-off some folks would consider.\u201d",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "United States Politics and Government",
+      "Quarantines"
+    ],
+    "org_facet": [
+      "BMJ (Journal)",
+      "Fox Broadcasting Co"
+    ],
+    "per_facet": [
+      "Hannity, Sean",
+      "Oz, Mehmet C",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Dr. Mehmet Oz, a heart surgeon and television personality, was named in 2018 to a council on health by President Trump.",
+        "copyright": "Chris Pizzello/Invision, via Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17xp-oz/17xp-oz-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17xp-oz/17xp-oz-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/multimedia/17xp-oz/17xp-oz-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/8eef8d44-37c3-5bd8-976e-ae668da93420",
+    "url": "https://www.nytimes.com/2020/04/16/health/coronavirus-obesity-higher-risk.html",
+    "id": 100000007085106,
+    "asset_id": 100000007085106,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 14:56:30",
+    "section": "Health",
+    "subsection": "",
+    "nytdsection": "health",
+    "adx_keywords": "Coronavirus (2019-nCoV);Obesity;Deaths (Fatalities);Ventilators (Medical);Research;your-feed-science;Horwitz, Leora;Lighter, Jennifer;NYU Langone Health;United States",
+    "column": null,
+    "byline": "By Roni Caryn Rabin",
+    "type": "Article",
+    "title": "Obesity Linked to Severe Coronavirus Disease, Especially for Younger Patients",
+    "abstract": "Young adults with obesity are more likely to be hospitalized, even if they have no other health problems, studies show.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Obesity",
+      "Deaths (Fatalities)",
+      "Ventilators (Medical)",
+      "Research",
+      "your-feed-science"
+    ],
+    "org_facet": [
+      "NYU Langone Health"
+    ],
+    "per_facet": [
+      "Horwitz, Leora",
+      "Lighter, Jennifer"
+    ],
+    "geo_facet": [
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A patient arrived at Elmurst Hospital Center in Queens, N.Y., this month.",
+        "copyright": "Kathy Willens/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/science/15VIRUS-OBESITY1/15VIRUS-OBESITY1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/science/15VIRUS-OBESITY1/15VIRUS-OBESITY1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/science/15VIRUS-OBESITY1/15VIRUS-OBESITY1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/0a9502a4-db0e-563c-b477-1bb7ac7143f6",
+    "url": "https://www.nytimes.com/2020/04/16/opinion/coronavirus-medical-training.html",
+    "id": 100000007092571,
+    "asset_id": 100000007092571,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 18:43:13",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "Grading of Students;Coronavirus (2019-nCoV);Anxiety and Stress;Parenting;Emergency Medical Treatment",
+    "column": null,
+    "byline": "By David Brooks",
+    "type": "Article",
+    "title": "The Age of Coddling Is Over",
+    "abstract": "Learning what hardship has to teach us.",
+    "des_facet": [
+      "Grading of Students",
+      "Coronavirus (2019-nCoV)",
+      "Anxiety and Stress",
+      "Parenting",
+      "Emergency Medical Treatment"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Medical and physician assistant students in protective gear prepare to screen patients for the coronavirus.",
+        "copyright": "John Locher/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/opinion/16brooks/16brooks-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/opinion/16brooks/merlin_171583413_01062442-71ba-4985-b9a6-bd72f720c2b8-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/opinion/16brooks/merlin_171583413_01062442-71ba-4985-b9a6-bd72f720c2b8-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://interactive/3888baf0-4a78-5684-8038-891a74065ec1",
+    "url": "https://www.nytimes.com/interactive/2020/04/17/briefing/coronavirus-world-health-organization-joe-biden-news-quiz.html",
+    "id": 100000007086928,
+    "asset_id": 100000007086928,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-17 05:23:44",
+    "section": "Briefing",
+    "subsection": "",
+    "nytdsection": "briefing",
+    "adx_keywords": "",
+    "column": null,
+    "byline": "Compiled by Chris Stanford, Will Dudding and Anna Schaverien",
+    "type": "Interactive",
+    "title": "News Quiz: Coronavirus, World Health Organization, Joe Biden",
+    "abstract": "Did you follow the headlines this week?",
+    "des_facet": [],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "",
+        "caption": "President Trump made the announcement during the coronavirus task force briefing on Tuesday at the White House.",
+        "copyright": "Doug Mills/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/14/us/politics/17newsquiz-trumpwho/14dc-virus-who-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/a8fdeaec-beb7-57cc-a8d5-fb8ebc187c98",
+    "url": "https://www.nytimes.com/2020/04/15/world/europe/coronavirus-germany-merkel.html",
+    "id": 100000007089650,
+    "asset_id": 100000007089650,
+    "source": "New York Times",
+    "published_date": "2020-04-15",
+    "updated": "2020-04-16 12:17:39",
+    "section": "World",
+    "subsection": "Europe",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV);Merkel, Angela;Germany",
+    "column": null,
+    "byline": "By Katrin Bennhold",
+    "type": "Article",
+    "title": "Relying on Science and Politics, Merkel Offers a Cautious Virus Re-entry Plan",
+    "abstract": "Shorn of any bravado, her announcement seemed again to make Germany, Europe\u2019s biggest economy, a de facto leader on the Continent and something of an example for Western nations",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Merkel, Angela"
+    ],
+    "geo_facet": [
+      "Germany"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Chancellor Angela Merkel of Germany at a news conference at the chancellery in Berlin on Wednesday about the plans of the German government to slowly ease lockdown restrictions imposed during the coronavirus outbreak.",
+        "copyright": "Pool photo by Christian Marquardt",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/world/15virus-merkel/15virus-merkel-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/world/15virus-merkel/merlin_171616437_d3aa314f-4b04-4f3d-b07b-34c00eb93c0c-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/world/15virus-merkel/merlin_171616437_d3aa314f-4b04-4f3d-b07b-34c00eb93c0c-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/2288e6a6-8649-503d-a0e5-f0d8492643c4",
+    "url": "https://www.nytimes.com/2020/04/16/health/coronavirus-asthma-risk.html",
+    "id": 100000007089178,
+    "asset_id": 100000007089178,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 16:51:46",
+    "section": "Health",
+    "subsection": "",
+    "nytdsection": "health",
+    "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Asthma;Research;New York State",
+    "column": null,
+    "byline": "By Danny Hakim",
+    "type": "Article",
+    "title": "Asthma Is Absent Among Top Covid-19 Risk Factors, Early Data Shows",
+    "abstract": "Despite warnings that asthmatics were at higher risk for severe illness from the coronavirus, asthma is showing up in only about five percent of New York State\u2019s fatal Covid cases.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Deaths (Fatalities)",
+      "Asthma",
+      "Research"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "New York State"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Rochelle Allen, right, a respiratory therapist in Oakland, Calif., listening to the lungs of patient with asthma during a home visit last month.",
+        "copyright": "Alexandra Hootnick for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/science/16VIRUS-ASTHMA/16VIRUS-ASTHMA-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/246fe9bf-07b6-5bfd-a35b-439d5a85da39",
+    "url": "https://www.nytimes.com/article/expiration-dates-coronavirus.html",
+    "id": 100000007075927,
+    "asset_id": 100000007075927,
+    "source": "New York Times",
+    "published_date": "2020-04-13",
+    "updated": "2020-04-15 21:09:06",
+    "section": "Food",
+    "subsection": "",
+    "nytdsection": "food",
+    "adx_keywords": "Cooking and Cookbooks;Labeling and Labels (Product);Food;Coronavirus (2019-nCoV);Quarantines",
+    "column": null,
+    "byline": "By J. Kenji L\u00f3pez-Alt",
+    "type": "Article",
+    "title": "The Food Expiration Dates You Should Actually Follow",
+    "abstract": "The first thing you should know? The dates, as we know them, have nothing to do with safety. J. Kenji L\u00f3pez-Alt explains.",
+    "des_facet": [
+      "Cooking and Cookbooks",
+      "Labeling and Labels (Product)",
+      "Food",
+      "Coronavirus (2019-nCoV)",
+      "Quarantines"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Jonathan Carlson",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/15/dining/15Kenji-Cover-Illustration/15Kenji-Cover-Illustration-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/1c0eebfa-6b35-558f-be12-10e163e7f65f",
+    "url": "https://www.nytimes.com/2020/04/17/us/coronavirus-nursing-homes.html",
+    "id": 100000007091869,
+    "asset_id": 100000007091869,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-18 01:39:27",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);Nursing Homes;Elder Care;Retirement Communities and Assisted Living;Deaths (Fatalities);Epidemics",
+    "column": null,
+    "byline": "By Farah Stockman, Matt Richtel, Danielle Ivory and Mitch Smith",
+    "type": "Article",
+    "title": "\u2018They\u2019re Death Pits\u2019: Virus Claims at Least 7,000 Lives in U.S. Nursing Homes",
+    "abstract": "More than six weeks after the first coronavirus deaths in a nursing home, outbreaks unfold across the country. About a fifth of U.S. virus deaths are linked to nursing facilities.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Nursing Homes",
+      "Elder Care",
+      "Retirement Communities and Assisted Living",
+      "Deaths (Fatalities)",
+      "Epidemics"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A patient was evacuated from the Magnolia Rehabilitation and Nursing Center in Riverside, Calif., last week.",
+        "copyright": "Chris Carlson/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/00virus-nursing-magnolia2-copy/00virus-nursing-magnolia2-copy-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/00virus-nursing-magnolia2-copy/00virus-nursing-magnolia2-copy-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/00virus-nursing-magnolia2-copy/00virus-nursing-magnolia2-copy-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/72f217e4-cac5-5d51-bd2c-2842c6076e76",
+    "url": "https://www.nytimes.com/2020/04/17/opinion/coronavirus-relief-trump.html",
+    "id": 100000007092879,
+    "asset_id": 100000007092879,
+    "source": "New York Times",
+    "published_date": "2020-04-17",
+    "updated": "2020-04-17 21:35:04",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "United States Economy;United States Politics and Government;Coronavirus Aid, Relief, and Economic Security Act (2020);Presidential Election of 2020;Recession and Depression;Conservatism (US Politics);Coronavirus (2019-nCoV);Unemployment Insurance;Republican Party",
+    "column": null,
+    "byline": "By Jamelle Bouie",
+    "type": "Article",
+    "title": "Trump and His Allies Are Worried About More Than November",
+    "abstract": "The temporary imposition of popular relief programs in response to the coronavirus makes Republicans nervous.",
+    "des_facet": [
+      "United States Economy",
+      "United States Politics and Government",
+      "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+      "Presidential Election of 2020",
+      "Recession and Depression",
+      "Conservatism (US Politics)",
+      "Coronavirus (2019-nCoV)",
+      "Unemployment Insurance"
+    ],
+    "org_facet": [
+      "Republican Party"
+    ],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "President Trump discusses small business relief at the White House last week.",
+        "copyright": "Doug Mills/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/opinion/17bouie/merlin_171376311_b40cffc5-96a6-4c34-b414-e390cff3fb3a-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/a6b3b3e4-510c-5f33-9d5c-a2760ab0495e",
+    "url": "https://www.nytimes.com/2020/04/16/us/politics/coronavirus-trump-guidelines.html",
+    "id": 100000007092296,
+    "asset_id": 100000007092296,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 14:34:39",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);States (US);Governors (US);Federal-State Relations (US);United States Politics and Government;Quarantines;Shutdowns (Institutional);Trump, Donald J",
+    "column": null,
+    "byline": "By Peter Baker and Michael D. Shear",
+    "type": "Article",
+    "title": "Trump Says States Can Start Reopening While Acknowledging the Decision Is Theirs",
+    "abstract": "The guidelines released by the president effectively mean that any restoration of American society will take place on a patchwork basis.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "States (US)",
+      "Governors (US)",
+      "Federal-State Relations (US)",
+      "United States Politics and Government",
+      "Quarantines",
+      "Shutdowns (Institutional)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "President Trump said on Thursday that states could begin resuming public activities before May 1 if they wanted to.",
+        "copyright": "Doug Mills/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/politics/16dc-trump-virus/16dc-trump-virus-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/politics/16dc-trump-virus/16dc-trump-virus-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/16/us/politics/16dc-trump-virus/16dc-trump-virus-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/64b53346-4461-5bee-9301-40f1cba02e37",
+    "url": "https://www.nytimes.com/2020/04/16/movies/brian-dennehy-dead.html",
+    "id": 100000007091968,
+    "asset_id": 100000007091968,
+    "source": "New York Times",
+    "published_date": "2020-04-16",
+    "updated": "2020-04-17 15:50:05",
+    "section": "Movies",
+    "subsection": "",
+    "nytdsection": "movies",
+    "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Theater;Movies;Dennehy, Brian",
+    "column": null,
+    "byline": "By Neil Genzlinger",
+    "type": "Article",
+    "title": "Brian Dennehy, Tony Award-Winning Actor, Dies at 81",
+    "abstract": "A versatile star, he had scores of television and film credits and made a searing impression on Broadway in \u201cDeath of a Salesman.\u201d",
+    "des_facet": [
+      "Deaths (Obituaries)",
+      "Actors and Actresses",
+      "Theater",
+      "Movies"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Dennehy, Brian"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Brian Dennehy in the 2013 television movie &ldquo;The Challenger Disaster.\" He was a familiar face for many years on television, in the movies and on Broadway.",
+        "copyright": "Patrick Toselli for Science Channel/BBC",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/obituaries/16Dennehy/16Dennehy-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/obituaries/16Dennehy/16Dennehy-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/04/17/obituaries/16Dennehy/16Dennehy-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  }
+]

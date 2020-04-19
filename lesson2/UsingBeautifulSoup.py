@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-html_page = "page_source.html"
+html_page = "/Users/xiaonili/lesson2/United_and_logan_airport.html"
 
 
 def extract_data(page):
@@ -18,7 +18,12 @@ def extract_data(page):
             "viewstate": ""}
     with open(page, "r") as html:
         # do something here to find the necessary values
-        pass
+        soup = BeautifulSoup(html, "lxml")
+        ev = soup.find(id="__EVENTVALIDATION")
+        data["eventvalidation"] = ev["value"]
+
+        vs = soup.find(id="__VIEWSTATE")
+        data["viewstate"]=vs["value"]
 
     return data
 
