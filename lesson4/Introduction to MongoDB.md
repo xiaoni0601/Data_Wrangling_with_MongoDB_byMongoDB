@@ -49,23 +49,25 @@
 
 5. Part 5: Connect to Your Cluster:
             1. Install the PyMongo Driver
+                python  ## Python 3.7.4 64-bit('base':conda)
             2. Connect to Your Atlas Cluster:
                 1. from pymongo import MongoClient
                 2. client = MongoClient('mongodb+srv://dbUser61Test:LIxiaoni616@cluster0709-vpi83.mongodb.net/test?retryWrites=true&w=majority')
 
 6. Part 6: Insert and View Data in Your Cluster:
         Insert Data into your Atlas Cluster with the PyMongo Driver:
-        1. db = client.gettingStarted
-        2. people = db.people
-        3. import datetime
-           personDocument = {
+        1. python
+        2. db = client.gettingStarted
+        3. people = db.people
+        4. import datetime
+        5. personDocument = {
              "name": { "first": "Alan", "last": "Turing" },
              "birth": datetime.datetime(1912, 6, 23),
              "death": datetime.datetime(1954, 6, 7),
              "contribs": [ "Turing machine", "Turing test", "Turingery" ],
              "views": 1250000
            }
-        4. people.insert_one(personDocument)
+        6. people.insert_one(personDocument)
         ->  <pymongo.results.InsertOneResult object at 0x10da89d20>
 
 
